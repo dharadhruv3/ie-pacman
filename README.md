@@ -57,7 +57,6 @@ The solution can be done with Redux as well, but as per time limits I have chose
 ## Tech Stack Used
 
 - React JS as view layer
-- Redux to maintain application state
 - Webpack as buid tool
 - Webpack Dev Server for local development
 - Yarn as npm package manager
