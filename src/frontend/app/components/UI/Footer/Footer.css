@@ -1,0 +1,23 @@
+.container {
+  margin: 15px 0 15px 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.p {
+  margin: 8px 0;
+  padding: 0;
+}
+
+@media screen and (min-device-width: 1200px) {
+  .container {
+    justify-content: space-between;
+  }
+}
+
+.flex-row{
+  flex-direction: row;
+}
